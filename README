@@ -1,4 +1,4 @@
-Criar migration usuários.
+Migration de usuário.
   - Usar sequelize para criar a migration
   - Editar migration e adicionar os campos do usuário:
     - id
@@ -9,3 +9,10 @@ Criar migration usuários.
     - created_at
     - updated_at
   - Executar a migration
+
+Model de usuário.
+  - Criar o model com os campos de usuário:
+    - name
+    - email
+    - password
+    - provider
