@@ -8,3 +8,4 @@ Criar migration usuários.
     - provider
     - created_at
     - updated_at
+  - Executar a migration

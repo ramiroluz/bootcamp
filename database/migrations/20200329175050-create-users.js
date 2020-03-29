@@ -1,3 +1,7 @@
+// yarn sequelize db:migrate
+// yarn sequelize db:migrate:undo
+// yarn sequelize db:migrate
+
 module.exports = {
     up: (queryInterface, Sequelize) => {
         return queryInterface.createTable('users', {
