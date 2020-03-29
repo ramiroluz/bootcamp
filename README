@@ -1,0 +1,10 @@
+Criar migration usuários.
+  - Usar sequelize para criar a migration
+  - Editar migration e adicionar os campos do usuário:
+    - id
+    - name
+    - email
+    - password
+    - provider
+    - created_at
+    - updated_at
