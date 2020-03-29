@@ -3,7 +3,7 @@ import { Router } from "express";
 const routes = new Router();
 
 routes.get("/", (req, res) => {
-  return res.json({ message: "Oilá" });
+  return res.json({ message: "Oilá Mondo" });
 });
 
 export default routes;
