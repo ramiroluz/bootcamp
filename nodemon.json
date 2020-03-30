@@ -1,5 +1,5 @@
 {
-  "exexcMap": {
-    "js": "node -r sucrase/register"
-  }
+    "execMap": {
+        "js": "node -r sucrase/register"
+    }
 }

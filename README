@@ -16,3 +16,9 @@ Model de usuário.
     - email
     - password
     - provider
+
+Criando loader de models
+  - Criar conexão com o banco.
+  - Inicializar model de usuário.
+  - Conectar ao banco na app.
+  - Criar usuário na rota /
