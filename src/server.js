@@ -1,13 +1,3 @@
-// import app from './app';
-//
-// app.listen(3333);
+import app from './app';
 
-console.log('TODO app!!!!!!!!!!!!!!!!');
-
-console.log('TODO app!!!!!!!!!!!!!!!!');
-console.log('TODO app!!!!!!!!!!!!!!!!');
-console.log('TODO app!!!!!!!!!!!!!!!!');
-console.log('TODO app!!!!!!!!!!!!!!!!');
-
-console.log('TODO app!!!!!!!!!!!!!!!!');
-console.log('TODO app!!!!!!!!!!!!!!!!');
+app.listen(3333);
