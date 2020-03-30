@@ -22,3 +22,10 @@ Criando loader de models
   - Inicializar model de usuário.
   - Conectar ao banco na app.
   - Criar usuário na rota /
+
+Cadastro de usuário
+  - Criar controller de usuário.
+  - Criar rota post
+  - Tratar email duplicado
+  - Retornar apenas as informações relevantes:
+    - id, name, email, provider
