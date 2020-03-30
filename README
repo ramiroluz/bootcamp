@@ -29,3 +29,10 @@ Cadastro de usuário
   - Tratar email duplicado
   - Retornar apenas as informações relevantes:
     - id, name, email, provider
+
+Gerando hash de senha.
+  - alterar campo password_hash na requisição no insomnia e instalar bcryptjs.
+  - Criar campo password virtual no model de usuário.
+  - implementar hook
+
+
