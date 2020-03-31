@@ -104,5 +104,4 @@ dist
 .tern-port
 
 #yarn lock
-node_modules
 yarn.lock
