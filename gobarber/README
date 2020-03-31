@@ -1,4 +1,4 @@
-Migration de usuário.
+Migration de usuár.io.
   - Usar sequelize para criar a migration
   - Editar migration e adicionar os campos do usuário:
     - id
@@ -35,7 +35,7 @@ Gerando hash de senha.
   - Criar campo password virtual no model de usuário.
   - implementar hook
 
-utenticação jwt
+Autenticação jwt
   - Criar session controller
   - Instalar json wet token
   - Criar rota no insomnia e testar
@@ -51,3 +51,12 @@ Update do usuario
 Validando dados de entrada
   - Instalar yup
   - validar a criacao de usuario
+
+Ramiro
+Geraldo
+Lincoln
+Antonio
+Marcio
+Deini
+Bruno
+Fábio
