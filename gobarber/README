@@ -35,4 +35,19 @@ Gerando hash de senha.
   - Criar campo password virtual no model de usuário.
   - implementar hook
 
+utenticação jwt
+  - Criar session controller
+  - Instalar json wet token
+  - Criar rota no insomnia e testar
+  - Criar config auth.js
 
+Middleware de autenticao
+  - Criar rota put
+  - Implementar o middleware
+
+Update do usuario
+  - implementar o update
+
+Validando dados de entrada
+  - Instalar yup
+  - validar a criacao de usuario
