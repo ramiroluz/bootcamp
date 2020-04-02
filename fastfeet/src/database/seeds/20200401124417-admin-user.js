@@ -17,7 +17,7 @@ module.exports = {
     );
   },
 
-  down: (/* queryInterface, Sequelize */) => {
-    // return queryInterface.bulkDelete('users', null, {});
+  down: (queryInterface) => {
+    return queryInterface.bulkDelete('users', { email: 'admin@fastfeet.com' });
   },
 };
