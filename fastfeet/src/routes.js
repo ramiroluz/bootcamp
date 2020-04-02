@@ -7,7 +7,6 @@ import RecipientController from './app/controllers/RecipientController';
 
 const routes = new Router();
 
-
 // rota para autenticação
 routes.post('/sessions', SessionController.store);
 
