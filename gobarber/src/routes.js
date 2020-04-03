@@ -13,7 +13,6 @@ import ScheduleController from './app/controllers/ScheduleController';
 
 import authMiddleware from './app/middleware/auth';
 
-
 const routes = new Router();
 const upload = multer(multerConfig);
 routes.post('/users', UserController.store);
