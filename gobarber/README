@@ -1,4 +1,4 @@
-rrMigration de usuár.io.
+Migration de usuár.io.
   - Usar sequelize para criar a migration
   - Editar migration e adicionar os campos do usuário:
     - id
@@ -52,10 +52,12 @@ Validando dados de entrada
   - Instalar yup
   - validar a criacao de usuario
 
-DEINI
-ANTONIO
-GERALDO
-RAMIRO
-RODRIGO
-BRUNO
-MARCIO
+    DEINI
+    RODRIGO
+    GERALDO
+    BRUNO
+    MARCIO
+    ANTONIO
+    FÁBIO
+    RAMIRO
+
