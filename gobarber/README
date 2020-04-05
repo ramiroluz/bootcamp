@@ -1,0 +1,63 @@
+Migration de usuár.io.
+  - Usar sequelize para criar a migration
+  - Editar migration e adicionar os campos do usuário:
+    - id
+    - name
+    - email
+    - password
+    - provider
+    - created_at
+    - updated_at
+  - Executar a migration
+
+Model de usuário.
+  - Criar o model com os campos de usuário:
+    - name
+    - email
+    - password
+    - provider
+
+Criando loader de models
+  - Criar conexão com o banco.
+  - Inicializar model de usuário.
+  - Conectar ao banco na app.
+  - Criar usuário na rota /
+
+Cadastro de usuário
+  - Criar controller de usuário.
+  - Criar rota post
+  - Tratar email duplicado
+  - Retornar apenas as informações relevantes:
+    - id, name, email, provider
+
+Gerando hash de senha.
+  - alterar campo password_hash na requisição no insomnia e instalar bcryptjs.
+  - Criar campo password virtual no model de usuário.
+  - implementar hook
+
+Autenticação jwt
+  - Criar session controller
+  - Instalar json wet token
+  - Criar rota no insomnia e testar
+  - Criar config auth.js
+
+Middleware de autenticao
+  - Criar rota put
+  - Implementar o middleware
+
+Update do usuario
+  - implementar o update
+
+Validando dados de entrada
+  - Instalar yup
+  - validar a criacao de usuario
+
+    DEINI
+    RODRIGO
+    GERALDO
+    BRUNO
+    MARCIO
+    ANTONIO
+    FÁBIO
+    RAMIRO
+

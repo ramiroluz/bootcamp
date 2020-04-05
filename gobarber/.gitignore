@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+.vscode
+tmp/
+
 # Logs
 logs
 *.log
@@ -106,6 +108,3 @@ dist
 
 #yarn lock
 yarn.lock
-
-# vscode
-.vscode
